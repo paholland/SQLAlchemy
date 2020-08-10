@@ -1,6 +1,6 @@
 SQLAlchemy Project 
 
-    To do some climate analysis and data exploration of the database. The deployed assignment utilizes the SQLAlchemy library to retrieve data 
+    To do some climate analysis and data exploration of the database. The deployed project utilizes the SQLAlchemy library to retrieve data 
     from a database which is used to generate charts and an API.
 
 
